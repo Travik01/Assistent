@@ -1,2 +1,5 @@
 # Assistent
 Voice assistant for practic
+is this assistant designed for the head ? it already includes basic functions such as, your task will be to carefully look at the code and figure out how it works (if there are any misunderstandings, ask deepseek neural networks, it will give a good explanatory answer), as well as add those functions that you consider necessary, do not limit yourself to practical tasks. your assistant may be with a bit of a joke or other characters                                    
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+данный ассистент разработан для главы 5.3 он уже включает базовые функции такие как, вашей задачей будет внимательно посмотреть код и разобраться в том как он работает (если есть какие то недопонимания спросите у нейросетей типа deepseek он выдаст хороший пояснительный ответ), а так же добавить те функции, какие вы считаете нужными, не ограничивайтесь практичными задачами ваш ассистент может быть и с каплей шутки или других характеров
